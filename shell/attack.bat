@@ -1,0 +1,1 @@
+forge script ../../script/Counter.s.sol:CounterScript --rpc-url http://35.197.147.15:28545 --chain-id 33850  --verify --broadcast -vvvv
